@@ -1,1 +1,3 @@
-# AMS595
+# AMS595 
+
+Individual Project 6
