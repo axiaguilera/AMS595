@@ -1,3 +1,3 @@
 # AMS595 
 
-Individual Project 6
+#  - Individual Project 6
