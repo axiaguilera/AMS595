@@ -1,0 +1,39 @@
+Testing all functions:
+
+Testing conditionalStatements:
+Input: 1, Output: 1 is positive
+Input: -1, Output: -1 is negative
+Input: 0, Output: You entered zero
+Input: 5, Output: 5 is positive
+
+Testing print_vector:
+The vector contains: 1 2 3 4 5 
+
+Testing fibonacci_sequence:
+Fibonacci sequence terms up to 4000000:
+0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765 10946 17711 28657 46368 75025 121393 196418 317811 514229 832040 1346269 2178309 3524578 
+
+Testing isprime:
+isprime(2) = true
+isprime(10) = false
+isprime(17) = true
+
+Testing factorize:
+Factors of 2: 1 2 
+Factors of 19: 1 19 
+Factors of 72: 1 2 3 4 6 8 9 12 18 24 36 72 
+Factors of 196: 1 2 4 7 14 28 49 98 196 
+
+Testing prime_factorize:
+Prime factors of 2: 2 
+Prime factors of 19: 19 
+Prime factors of 72: 2 3 
+Prime factors of 196: 2 7 
+
+Testing print_pascals_triangle:
+Pascal's Triangle with 5 rows:
+1 
+1 1 
+1 2 1 
+1 3 3 1 
+1 4 6 4 1 
