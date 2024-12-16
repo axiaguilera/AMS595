@@ -1,6 +1,6 @@
 # AMS595 Individual Project 7
 
-This code was made by Axi Aguilera (axi.aguilera@stonybrook.edu), programmed in VS Code and executed from the Ubuntu terminal, to run it again follow the following steps:
+This code was ceated by Axi Aguilera (axi.aguilera@stonybrook.edu), programmed in VS Code and executed from the Ubuntu terminal, to run it again follow the following steps:
 
 1. Open Ubuntu terminal and locate the directory:
 For example: cd /mnt/d/HW7
